@@ -32,8 +32,10 @@ Following steps need to be take care while adding the mule instrumentation utili
 2. Download the mule instrumentation utility jar located at the location <Git Hub Location>
 
 3. Configure the jar to build path of the mule project. 
+	
 	a) Right click on the project, go to build path and select configure build paht option. 
-  	b) Click on add external jar files and point to the mule instrumentation jar.
+  	
+	b) Click on add external jar files and point to the mule instrumentation jar.
 
 4. Create a log4j.properties file under src/main/resources of mule project and add the below content to it.
 			
