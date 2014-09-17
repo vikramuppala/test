@@ -1,6 +1,5 @@
-[Purpose](#purpose)
-[Steps to use Mule Instrumentation utility](#steps-to-use-mule-instrumentation-utility)  
-[Resources](#resources)
+[Purpose](#purpose)  
+[Steps to use Mule Instrumentation utility](#steps-to-use-mule-instrumentation-utility)
 
 Purpose
 =======
