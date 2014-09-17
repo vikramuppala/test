@@ -30,7 +30,7 @@ Following steps need to be take care while adding the mule instrumentation utili
   				 </dependency>
 
 
-2. Download the mule instrumentation utility jar located at the location <Git Hub Location>.
+2. Download the mule instrumentation utility jar located at the location <Git Hub Location>
 
 3. Configure the jar to build path of the mule project. 
 	a) Right click on the project, go to build path and select configure build paht option. 
